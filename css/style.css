@@ -635,6 +635,9 @@
     width: 25px;
     height: 25px;
   }
+  .footer .title__hr-top {
+    top: 40px;
+  }
   .third-section {
     min-height: 380px;
   }
@@ -730,6 +733,8 @@
   }
   .footer .title__hr-top {
     bottom: 100px;
+    left: 52px;
+    top: 40px;
   }
   .buttons__main-btn {
     width: 140px;
@@ -896,7 +901,7 @@
   }
   .title_hr {
     width: 39px;
-    left: 125px;
+    left: 92px;
   }
   .footer {
     max-width: 320px;
@@ -913,5 +918,10 @@
     width: 290px;
     top: 6px;
     left: 10px;
+  }
+  .footer .title_hr {
+    width: 38px;
+    left: 52px;
+    top: 40px;
   }
 }/*# sourceMappingURL=style.css.map */
